@@ -1,0 +1,53 @@
+zhy:
+LCT √
+splay √
+BIT(*)√
+李超√
+非旋treap √
+可持久化treap√
+左偏树 √
+替罪羊√
+后缀数组√
+后缀平衡树√
+后缀自动机√
+回文自动机√
+KDT√
+KMP√
+exKMP√
+manacher√
+zkw**√
+长链√
+笛卡尔树√
+树上莫队 √ 
+
+lre:
+半平面交
+三角形剖分
+单纯形(*)
+康托展开
+杜筛
+min25筛
+FFT(***)(求各种)
+拓展Lucas 
+k阶递推
+BM
+exgcd
+中国剩余定理，两两合并 
+miller-rabin
+pollard-rho
+高精
+线性逆元
+longlong*longlong mod 
+平面图
+
+yjh:
+插头DP
+动态DP
+tarjan
+dinic/ **mcf(*zkw)
+朱刘
+KM
+匈牙利
+二分图(方案)
+最小割树
+斯坦纳树
